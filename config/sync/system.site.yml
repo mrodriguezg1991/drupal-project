@@ -1,0 +1,14 @@
+uuid: 8eaaed3b-0962-4553-8157-d24e3a0a77e4
+name: Site-Install
+mail: mrodriguezg1991@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
